@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Mikelange Collection"
+subtitle: Mikelange is for everyone who love shoes
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
